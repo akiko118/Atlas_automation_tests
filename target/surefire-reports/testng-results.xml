@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.java.leadInnTripPageTest" duration-ms="12062" started-at="2017-03-22T20:12:20Z" finished-at="2017-03-22T20:12:32Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12062" started-at="2017-03-22T20:12:20Z" finished-at="2017-03-22T20:12:32Z">
+      <class name="test.java.leadInnTripPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:test.java.leadInnTripPageTest@1324409e]" name="SetUp" is-config="true" duration-ms="9795" started-at="2017-03-22T13:12:20Z" finished-at="2017-03-22T13:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="AtlasLeaderOnlyUSTest016_Non_Trip()[pri:1, instance:test.java.leadInnTripPageTest@1324409e]" name="AtlasLeaderOnlyUSTest016_Non_Trip" duration-ms="2254" started-at="2017-03-22T13:12:30Z" finished-at="2017-03-22T13:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AtlasLeaderOnlyUSTest016_Non_Trip -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.java.leadInnTripPageTest@1324409e]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-03-22T13:12:32Z" finished-at="2017-03-22T13:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.java.leadInnTripPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.java.leadInnTripPageTest -->
+</testng-results>

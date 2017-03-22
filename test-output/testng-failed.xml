@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.backroads.webdriver.testcases.atlas.leadInnTripPageTest">
+        <methods>
+          <include name="SetUp"/>
+          <include name="AtlasLeaderOnlyUSTest016_Non_Trip"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.backroads.webdriver.testcases.atlas.leadInnTripPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
